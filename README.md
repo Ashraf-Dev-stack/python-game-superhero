@@ -14,7 +14,7 @@ Run the file and pick a number:
 
 ### Run it
 
-python superpower.py
+[Click here to play the game](https://trinket.io/python/3b001674b525)
 
 ### Built With
 

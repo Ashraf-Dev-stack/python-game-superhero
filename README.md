@@ -14,7 +14,7 @@ Run the file and pick a number:
 
 ### Run it
 
-python superpower .py
+python superpower.py
 
 ### Built With
 

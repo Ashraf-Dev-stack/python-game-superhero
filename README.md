@@ -10,7 +10,7 @@ Run the file and pick a number:
 ### Run it
 python superpower.py
 
-### Builyt
+### Built With
 -Python 3
 -No external libraries needed
 

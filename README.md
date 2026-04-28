@@ -11,10 +11,10 @@ Run the file and pick a number:
 python superpower.py
 
 ### Built With
--Python 3
+-Python 3 \n
 -No external libraries needed
 
 ### Why it's cool
--`slow_print`typing effect
--Beginner friendly code 
+-`slow_print`typing effect \n
+-Beginner friendly code \n
 -Clean if/else logic
